@@ -4,6 +4,9 @@ In the browser version, they're stored as PDFs, which this script reads and proc
 
 ## Future Plans
 This started off as a tool to help with budgeting but I'm hoping to explore ways to track the price increases of items as well.
+
+- Make this work for other supermarkets/retailers
+
 ![image](https://github.com/riasokolova/Receipts/assets/166589104/cac21b5d-a764-4ff4-b550-d9ce266d3a47)
 
 ## To Do
